@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">沉淀链路 — 从触发到写入飞书的六步流程</title>
+  <desc id="desc">常驻 IDE 自动触发的知识沉淀流程：触发、提取、归位、叙事、补全决策七要素、写入飞书 cosense 节点。</desc>
+
+  <!-- background -->
+  <rect width="1200" height="400" rx="26" fill="#FAF8F3"/>
+
+  <!-- caption -->
+  <text x="64" y="58" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="14" letter-spacing="2" fill="#2F55D4">HOW IT WORKS · 沉淀链路</text>
+
+  <!-- connector spine -->
+  <line x1="84" y1="124" x2="84" y2="354" stroke="#E8E3D8" stroke-width="2"/>
+
+  <!-- step 1 -->
+  <circle cx="84" cy="109" r="15" fill="#FAF8F3" stroke="#2F55D4" stroke-width="2"/>
+  <text x="84" y="115" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#2F55D4">1</text>
+  <text x="120" y="118" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">触发</text>
+  <text x="340" y="118" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">任务完成 / Bug 定案 / 决策落地后，自动触发（无需显式指示）</text>
+
+  <!-- step 2 -->
+  <circle cx="84" cy="161" r="15" fill="#FAF8F3" stroke="#2F55D4" stroke-width="2"/>
+  <text x="84" y="167" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#2F55D4">2</text>
+  <text x="120" y="170" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">提取</text>
+  <text x="340" y="170" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">从对话、代码、Debug 记录中抽取新知识点</text>
+
+  <!-- step 3 -->
+  <circle cx="84" cy="213" r="15" fill="#FAF8F3" stroke="#2F55D4" stroke-width="2"/>
+  <text x="84" y="219" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#2F55D4">3</text>
+  <text x="120" y="222" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">归位</text>
+  <text x="340" y="222" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">判断归属主题：已有条目更新演进，否则新增</text>
+
+  <!-- step 4 -->
+  <circle cx="84" cy="265" r="15" fill="#FAF8F3" stroke="#2F55D4" stroke-width="2"/>
+  <text x="84" y="271" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#2F55D4">4</text>
+  <text x="120" y="274" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">叙事</text>
+  <text x="340" y="274" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">用 3–6 段连贯自然语言 + ASCII 线条图写入</text>
+
+  <!-- step 5 -->
+  <circle cx="84" cy="317" r="15" fill="#FAF8F3" stroke="#2F55D4" stroke-width="2"/>
+  <text x="84" y="323" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#2F55D4">5</text>
+  <text x="120" y="326" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">七要素</text>
+  <text x="340" y="326" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">关键决策补全「决策七要素」，缺资料标「待补充」</text>
+
+  <!-- step 6 -->
+  <circle cx="84" cy="369" r="15" fill="#FAF8F3" stroke="#C07A3E" stroke-width="2"/>
+  <text x="84" y="375" text-anchor="middle" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#C07A3E">6</text>
+  <text x="120" y="378" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#1C1A16">落地</text>
+  <text x="340" y="378" font-family="Inter, 'Source Han Sans SC', 'Noto Sans CJK SC', '思源黑体', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="18" fill="#6E675B">写入飞书 cosense 节点，可回读验证无损</text>
+</svg>
